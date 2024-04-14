@@ -2,7 +2,7 @@
 This is the portfolio of all class assignments I have completed in Data Analytics. 
 
 ## My Résumé
-- [Résumé]()
+- [Résumé](https://github.com/dotsenkokonstantin22/SUU/blob/main/Dotsenko_resume.ipynb)
 
 ## Table of Contents
 1. **Module 1: Using Colab**
